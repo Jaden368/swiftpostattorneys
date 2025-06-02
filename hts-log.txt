@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Jun 2025 07:22:40 at https://swiftpostattorneys.com/en/
+("C:\Program Files\WinHTTrack\httrack.exe" https://swiftpostattorneys.com/en/ -O ./swiftpost_copy )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:23:27	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/our-services/index.html (from https://swiftpostattorneys.com/en/our-services/index.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/img.svg (from https://swiftpostattorneys.com/en/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/about-us/img.svg (from https://swiftpostattorneys.com/en/about-us/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/img.svg (from https://swiftpostattorneys.com/en/our-services/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/personal-injury-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/personal-injury-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/estate-planning-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/estate-planning-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/estate-clearance-probate-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/estate-clearance-probate-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/guardianship-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/guardianship-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/elder-law/img.svg (from https://swiftpostattorneys.com/en/our-services/elder-law/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/family-law-divorce-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/family-law-divorce-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/real-estate-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/real-estate-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/business-formation/img.svg (from https://swiftpostattorneys.com/en/our-services/business-formation/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/business-transactions-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/business-transactions-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/construction-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/construction-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/criminal-law-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/criminal-law-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/adoption/img.svg (from https://swiftpostattorneys.com/en/our-services/adoption/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/landlord-matters-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/landlord-matters-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-services/trials-and-appeals-attorney/img.svg (from https://swiftpostattorneys.com/en/our-services/trials-and-appeals-attorney/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-attorneys/img.svg (from https://swiftpostattorneys.com/en/our-attorneys/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-attorneys/Danny-Jonsson/img.svg (from https://swiftpostattorneys.com/en/our-attorneys/Danny-Jonsson/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-attorneys/Beatrice-Henriksson/img.svg (from https://swiftpostattorneys.com/en/our-attorneys/Beatrice-Henriksson/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-attorneys/Antonio-Cheng/img.svg (from https://swiftpostattorneys.com/en/our-attorneys/Antonio-Cheng/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/our-attorneys/Villiam-Lindholm/img.svg (from https://swiftpostattorneys.com/en/our-attorneys/Villiam-Lindholm/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/contact/img.svg (from https://swiftpostattorneys.com/en/contact/img.html)
+07:23:38	Error: 	"Not Found" (404) at link https://swiftpostattorneys.com/en/contact-form/img.svg (from https://swiftpostattorneys.com/en/contact-form/img.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 173 links scanned, 147 files written (4016875 bytes overall) [1158046 bytes received at 19966 bytes/sec], 3776170 bytes transferred using HTTP compression in 92 files, ratio 22%, 57.6 requests per connection
+(25 errors, 0 warnings, 0 messages)
